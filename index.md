@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# README exercise - EGSH Responsible Research Data Management course
 
-You can use the [editor on GitHub](https://github.com/eduardklap/readme-exercise/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+During this exercise you will write a README file for your project
+For now, we start with a README for the entire project, in the root of the project folder.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Instructions
 
-### Markdown
+### During the course session (30 minutes)
+#### Download and open the README template
+- Download the [README_template.txt](https://github.com/eduardklap/readme-exercise/files/8715518/README_template.txt)
+file. 
+- Open the file as plain text, using a text editor, like Notepad/TextEdit/Vim, **not** Word 
+_- If you feel comfortable with Markdown, you can use the file [README_template.md](https://github.com/eduardklap/readme-exercise/files/8715526/README_template.md) with Markdown formatting in your text_
+#### Fill the template with your project specific details
+- Provide as much information as possible under the headings in the template (general info, sharing/access info, data & file overview, et cetera)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### After the course session (< 60 minutes)
+#### Finish your project README draft
+- Aim for some parts to be understandable for someone not familiar with your project
+- Do not take more than 1 hour for this! The README does not have to be finished
+#### Send the draft README to another participant
+- You will receive an email to inform you about the course participant with whom you form a pair
+- Send the draft README **not later than Friday May 20 at noon** to your partner
+#### Provide feedback on the 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eduardklap/readme-exercise/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Resources
+This exercise is based on materials from the [Cornell University RDM readme guide](https://data.research.cornell.edu/content/readme), a great place with more information about README's
