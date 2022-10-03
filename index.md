@@ -23,12 +23,12 @@ file.
 
 #### Send the draft README to another participant
 - You will receive an email to inform you about the course participant with whom you form a pair
-- Send the draft README **not later than Friday May 20 at 5pm** to your partner, so that they can provide feedback. If this is not possible, you can arrange a different time with your partner.
+- Send the draft README **not later than Wednesday October 5 at 5pm** to your partner, so that they can provide feedback. If this is not possible, you can arrange a different time with your partner.
 
 #### Provide feedback on the README of another participant
 - Read through the README that you received from your partner
 - Ask yourself the following: Is it clear when and where the research took place? Will you know where to find specific files when aiming to reproduce results? Do you know what specific software to use? Are details provided about variables and measurements?
-- Send a short list of improvements to your partner **not later than Tuesday May 24 at 4pm** 
+- Send a short list of improvements to your partner **not later than Monday October 10 at 4pm** 
 
 ## Resources
 This exercise is based on materials from the [Cornell University RDM readme guide](https://data.research.cornell.edu/content/readme), a great place with more information about README's
