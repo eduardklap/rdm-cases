@@ -1,4 +1,4 @@
-## README exercise 
+## Broken links and archiving internet sources exercise 
 
 Exercise as part of the [Responsible Research Data Management course](https://www.egsh.eur.nl/doctoral-education/phd-course-guide/responsible-research-data-management-rdm/) at the Erasmus Graduate School for Social Sciences and the Humanities (EGSH). During this exercise you will try to relocate internet sources from a list of actual sources used in journal articles.  
 
