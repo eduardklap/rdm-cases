@@ -1,34 +1,34 @@
 ## README exercise 
 
-Exercise as part of the [Responsible Research Data Management course](https://www.egsh.eur.nl/doctoral-education/phd-course-guide/responsible-research-data-management-rdm/) at the Erasmus Graduate School for Social Sciences and the Humanities (EGSH). During this exercise you will write a README file for your research project.  
+Exercise as part of the [Responsible Research Data Management course](https://www.egsh.eur.nl/doctoral-education/phd-course-guide/responsible-research-data-management-rdm/) at the Erasmus Graduate School for Social Sciences and the Humanities (EGSH). During this exercise you will try to relocate internet sources from a list of actual sources used in journal articles.  
 
-## Instructions -  During the course session (30 minutes)
+## Background
+Online sources may disappear at some point. For example, more than half of the reproducibility links in articles from the *American Political Science Review* between 2000 and 2013 couldn’t be accessed in 2016 ([Gertler & Bullock, 2017](https://doi.org/10.1017/S1049096516002353), 167). Similarly, although providing links to data in Data Availability Statements lead to much better retrieval rates than contacting authors to locate data, still 20% of URLs were unavailable in one study ([Federer, 2022](https://doi.org/10.1371/journal.pone.0272845))  
 
-#### Download and open the README template
-- Download the [README_template.txt](https://github.com/eduardklap/readme-exercise/files/8715518/README_template.txt)
-file. 
-- Open the file as plain text, using a text editor, like Notepad/TextEdit/Vim, **not** Word. Save your file as a `.txt` file.
-- _If you feel comfortable with Markdown, you can use the file [README_template.md](https://github.com/eduardklap/readme-exercise/files/8715526/README_template.md) with [Markdown formatting](https://www.markdownguide.org/basic-syntax/) in your text._
+Saving local copies of materials is good but insufficient for transparency. Also, often copies of data cannot be shared through a repository because of copyright issues. In that case it is better to directly link to the original source.  
 
-#### Fill the template with your project specific details
-- For now, we start with a README for the entire project, in the root of the project folder.
-- Provide as much information as possible under the headings in the template (general info, sharing/access info, data & file overview, et cetera). Be sure to be as explicit as possible with the provided information, such that someone unfamiliar with your project can understand the details. See also feedback criteria below for inspiration what to include.
-- Ask for help when needed, we are happy to support you! 
+**Solutions:**
+- When available, use a persistent and resolvable identifier (PID): a long-lasting reference to a digital object that gives information about that object regardless of what happens to it. Examples of PIDs include [Digital Object Identifier (DOI)](https://www.doi.org/), [Handle](https://www.handle.net/), and [Archival Resource Key (ARK)](https://arks.org/)
+- Use internet archiving services for webpages (especially the Internet Archive: https://archive.org/web/) 
 
-## Instructions - After the course session (1-2 hours)
+## Instructions -  During the course session (20 minutes)
+The list of the broken links that Gertler and Bullock found in the *American Political Science Review* is available (in a data repository with a PID):  
+Bullock, John, 2017, "Reference Rot: An Emerging Threat to Transparency in Political Science", https://doi.org/10.7910/DVN/Q8VDN0, Harvard Dataverse, V1
 
-#### Finish your project README draft
-- Do not take more than 1 hour for this! The README does not have to be finished.
-- Aim for at least some parts to be understandable for someone not familiar with your project.
+### Download and open the list of URLs
+- Download the [brokenReproducibilityURLs.tab](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/Q8VDN0/O1DXFS&version=1.0) file from the repository
+- Open the file in a spreadsheet program such as Excel
 
-#### Send the draft README to another participant
-- You will receive an email to inform you about the course participant with whom you form a pair
-- Send the draft README **no later than Wednesday October 5 at 5pm** to your partner, so that they can provide feedback. If this is not possible, you can arrange a different time with your partner.
+### Inspection of the missing resources
+- Find the first five links marked as “Did not find resource”
+- What sorts of websites are these? 
 
-#### Provide feedback on the README of another participant
-- Read through the README that you received from your partner
-- Ask yourself the following: Is it clear when and where the research took place? Will you know where to find specific files when aiming to reproduce results? Do you know what specific software to use? Are details provided about variables and measurements?
-- Send a short list of improvements to your partner **no later than Monday October 10 at 4pm** 
+### Using the Internet Archive
+- Can you still find the linked content from these first five links using the [Internet Archive’s Way Back Machine](https://archive.org/web/)?
+
+### Bonus question
+- Find the first five links that were marked as “Found resource” in 2016. How many of these are still currently accessible?
 
 ## Resources
-This exercise is based on materials from the [Cornell University RDM readme guide](https://data.research.cornell.edu/content/readme), a great place with more information about README's
+This exercise is taken from the following workshop materials:
+- Karcher, Sebastian (2019): Managing and Sharing Qualitative Data. figshare. Dataset. https://doi.org/10.6084/m9.figshare.7637288.v1
