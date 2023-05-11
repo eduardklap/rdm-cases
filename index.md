@@ -9,11 +9,11 @@ Saving local copies of materials is good but insufficient for transparency. Also
 
 **Solutions:**
 - When available, use a persistent and resolvable identifier (PID): a long-lasting reference to a digital object that gives information about that object regardless of what happens to it. Examples of PIDs include [Digital Object Identifier (DOI)](https://www.doi.org/), [Handle](https://www.handle.net/), and [Archival Resource Key (ARK)](https://arks.org/)
-- Use internet archiving services for webpages (especially the Internet Archive: https://archive.org/web/) 
+- Use internet archiving services for webpages (especially the Internet Archive: [https://archive.org/web/](https://archive.org/web/)) 
 
-## Instructions -  During the course session (20 minutes)
+## Exercise instructions
 The list of the broken links that Gertler and Bullock found in the *American Political Science Review* is available (in a data repository with a PID):  
-Bullock, John, 2017, "Reference Rot: An Emerging Threat to Transparency in Political Science", https://doi.org/10.7910/DVN/Q8VDN0, Harvard Dataverse, V1
+Bullock, John, 2017, "Reference Rot: An Emerging Threat to Transparency in Political Science", [https://doi.org/10.7910/DVN/Q8VDN0](https://doi.org/10.7910/DVN/Q8VDN0), Harvard Dataverse, V1
 
 ### Download and open the list of URLs
 - Download the [brokenReproducibilityURLs.tab](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/Q8VDN0/O1DXFS&version=1.0) file from the repository
@@ -31,4 +31,4 @@ Bullock, John, 2017, "Reference Rot: An Emerging Threat to Transparency in Polit
 
 ## Resources
 This exercise is taken from the following workshop materials:
-- Karcher, Sebastian (2019): Managing and Sharing Qualitative Data. figshare. Dataset. https://doi.org/10.6084/m9.figshare.7637288.v1
+- Karcher, Sebastian (2019): Managing and Sharing Qualitative Data. figshare. Dataset. [https://doi.org/10.6084/m9.figshare.7637288.v1](https://doi.org/10.6084/m9.figshare.7637288.v1)
