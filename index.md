@@ -1,5 +1,3 @@
-# Broken links and archiving internet sources exercise 
-
 Exercise as part of the [Responsible Research Data Management course](https://www.egsh.eur.nl/doctoral-education/phd-course-guide/responsible-research-data-management-rdm/) at the Erasmus Graduate School for Social Sciences and the Humanities (EGSH). During this exercise you will try to relocate internet sources from a list of actual sources used in journal articles.  
 
 ## Exercise instructions
@@ -31,6 +29,7 @@ Saving local copies of materials is good but insufficient for transparency. Also
 **Solutions:**
 - When available, use a persistent and resolvable identifier (PID): a long-lasting reference to a digital object that gives information about that object regardless of what happens to it. Examples of PIDs include [Digital Object Identifier (DOI)](https://www.doi.org/), [Handle](https://www.handle.net/), and [Archival Resource Key (ARK)](https://arks.org/)
 - Use internet archiving services for webpages (especially the Internet Archive: [https://archive.org/web/](https://archive.org/web/)) 
+
 </details>
 
 ## Resources
