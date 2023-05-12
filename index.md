@@ -2,7 +2,7 @@ Exercise as part of the [Responsible Research Data Management course](https://ww
 
 ## Exercise instructions
 The list of the broken links that Gertler and Bullock found in the *American Political Science Review* is available (in a data repository with a persistent identifier):  
-Bullock, John, 2017, "Reference Rot: An Emerging Threat to Transparency in Political Science", [https://doi.org/10.7910/DVN/Q8VDN0](https://doi.org/10.7910/DVN/Q8VDN0), Harvard Dataverse, V1
+- Bullock, John, 2017, "Reference Rot: An Emerging Threat to Transparency in Political Science", [https://doi.org/10.7910/DVN/Q8VDN0](https://doi.org/10.7910/DVN/Q8VDN0), Harvard Dataverse, V1
 
 ### Download and open the list of URLs
 - Download the [brokenReproducibilityURLs.tab](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/Q8VDN0/O1DXFS&version=1.0) file from the repository
