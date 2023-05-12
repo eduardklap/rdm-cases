@@ -1,7 +1,7 @@
 Exercise as part of the [Responsible Research Data Management course](https://www.egsh.eur.nl/doctoral-education/phd-course-guide/responsible-research-data-management-rdm/) at the Erasmus Graduate School for Social Sciences and the Humanities (EGSH). During this exercise you will try to relocate internet sources from a list of actual sources used in journal articles.  
 
 ## Exercise instructions
-The list of the broken links that Gertler and Bullock found in the *American Political Science Review* is available (in a data repository with a PID):  
+The list of the broken links that Gertler and Bullock found in the *American Political Science Review* is available (in a data repository with a persistent identifier):  
 Bullock, John, 2017, "Reference Rot: An Emerging Threat to Transparency in Political Science", [https://doi.org/10.7910/DVN/Q8VDN0](https://doi.org/10.7910/DVN/Q8VDN0), Harvard Dataverse, V1
 
 ### Download and open the list of URLs
