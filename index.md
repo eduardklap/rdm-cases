@@ -1,32 +1,13 @@
-Exercise as part of the [Responsible Research Data Management course](https://www.egsh.eur.nl/doctoral-education/phd-course-guide/responsible-research-data-management-rdm/) at the Erasmus Graduate School for Social Sciences and the Humanities (EGSH). During this exercise you will try to relocate internet sources from a list of actual sources used in journal articles.  
+Cases used for exercises during the [Responsible Research Data Management course](https://www.egsh.eur.nl/doctoral-education/phd-course-guide/responsible-research-data-management-rdm/) at the Erasmus Graduate School for Social Sciences and the Humanities (EGSH). 
 
-## Exercise instructions
-The list of the broken links that Gertler and Bullock found in the *American Political Science Review* is available (in a data repository with a persistent identifier):  
-- Bullock, John, 2017, "Reference Rot: An Emerging Threat to Transparency in Political Science", [https://doi.org/10.7910/DVN/Q8VDN0](https://doi.org/10.7910/DVN/Q8VDN0), Harvard Dataverse, V1
+## Case 1: Intergroup conflict from a macro-level and micro-level perspective
 
-### Download and open the list of URLs
-- Download the [brokenReproducibilityURLs.tab](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/Q8VDN0/O1DXFS&version=1.0) file from the repository
-- Open the file in a spreadsheet program such as Excel
+**Tom’s PhD project** is part of a European grant that investigates intergroup conflict from a macro-level and micro-level perspective.  
+The PhD student will carry out behavioral experiments using multi-round economic games. In addition, he will study armed conflicts in modern history using the [UCDP/PRIO Armed Conflict Dataset](https://www.prio.org/data/4). Finally, he will do qualitative analysis of interviews that are part of the [Interviewproject Nederlandse Veteranen - IPNV](https://doi.org/10.17026/dans-xhc-dxzk), a collection of over 900 interviews with Dutch veterans 1940-now from the Netherlands Veterans Institute (available in DANS Easy under restricted access).  
+Case loosely based on this ERC grant: [https://doi.org/10.3030/785635](https://doi.org/10.3030/785635)
 
-### Inspection of the missing resources
-- Find the first five links marked as “Did not find resource”
-- What sorts of websites are these? 
+## Case 2: Political polarization
 
-### Using the Internet Archive
-- Can you still find the linked content from these first five links using the [Internet Archive’s Way Back Machine](https://archive.org/web/)?
-
-### Bonus question
-- Find the first five links that were marked as “Found resource” in 2016. How many of these are still currently accessible?
-
-## Background
-Online sources may disappear at some point. For example, more than half of the reproducibility links in articles from the *American Political Science Review* between 2000 and 2013 couldn’t be accessed in 2016 ([Gertler & Bullock, 2017](https://doi.org/10.1017/S1049096516002353), 167). Similarly, although providing links to data in Data Availability Statements lead to much better retrieval rates than contacting authors to locate data, still 20% of URLs were unavailable in one study ([Federer, 2022](https://doi.org/10.1371/journal.pone.0272845))  
-
-Saving local copies of materials is good but insufficient for transparency. Also, often copies of data cannot be shared through a repository because of copyright issues. In that case it is better to directly link to the original source.  
-
-**Solutions:**
-- When available, use a persistent and resolvable identifier (PID): a long-lasting reference to a digital object that gives information about that object regardless of what happens to it. Examples of PIDs include [Digital Object Identifier (DOI)](https://www.doi.org/), [Handle](https://www.handle.net/), and [Archival Resource Key (ARK)](https://arks.org/)
-- Use internet archiving services for webpages (especially the Internet Archive: [https://archive.org/web/](https://archive.org/web/)) 
-
-## Resources
-This exercise is taken from the following workshop materials:
-- Karcher, Sebastian (2019): Managing and Sharing Qualitative Data. figshare. Dataset. [https://doi.org/10.6084/m9.figshare.7637288.v1](https://doi.org/10.6084/m9.figshare.7637288.v1)
+**Sarah’s PhD project** on political polarization. She conducts focus groups with political youth party members, focusing on right- and left-wing parties in different countries. Sessions are videotaped. This is a collaboration with researchers from Universities in Poland, France, Greece.  
+She also conducts ethnographic fieldwork in two different communities where she focuses on political engagement.  
+Finally, she will do a quantitative analysis of health and economic determinants of voting behavior using [CBS Microdata](https://www.cbs.nl/en-gb/our-services/customised-services-microdata/microdata-conducting-your-own-research) and the [LISS panel](https://www.centerdata.nl/en/liss-panel). 
